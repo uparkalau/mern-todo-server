@@ -33,3 +33,11 @@ The application does not require any login or authentication, and all data is st
 
    The server should now be running on `http://localhost:8000`.
    
+For any further details or issues, please refer to the respective server-side and client-side repositories:
+
+- Server Side Repository: [https://github.com/uparkalau/mern-todo-server](https://github.com/uparkalau/mern-todo-server)
+- Client Side Repository: [https://github.com/uparkalau/mern-todo-client](https://github.com/uparkalau/mern-todo-client)
+
+5. Live
+- client netlify.com https://master--singular-nougat-74e7f3.netlify.app/
+- server render.com https://mern-todolist-server-ztbo.onrender.com
